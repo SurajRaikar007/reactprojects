@@ -1,0 +1,16 @@
+#foot{
+    height: 125px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 35px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+ul{
+    list-style: none;
+}
+li{
+   display: flex;
+   margin-bottom: 10px;
+}
